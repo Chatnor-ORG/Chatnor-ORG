@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name or Username]! 👋
+# Hi there, I'm [Chatnor]! 👋
 
 ### 🚀 Student | Innovator | Hardware & 3D Tech Explorer
 
