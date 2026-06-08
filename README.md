@@ -7,21 +7,21 @@
 ## 🛠️ About Me
 I am a passionate creator from Sri Lanka fascinated by electronics, coding, and 3D visualization. I love turning theoretical ideas into real-world projects.
 
-* 💡 **Main Interests:** Magnetic Levitation, Volumetric Displays, and Robotics.
+* 💡 **Main Interests:** Full Stack Development, Software Development and Robotics.
 * 🤖 **Hardware:** Arduino, nRF24 Wireless Communication, Sensors & Actuators.
 * 🎨 **Creative Tools:** Blender 3D, Graphic Design, and UI/UX.
 
 ---
 
 ## 💻 Tech Stack & Skills
-* **Languages:** C++ (for Arduino), Python, Markdown
-* **Software:** Blender, TLauncher/Forge Modifications
+* **Languages:** C++ (for Arduino), Java Script, Markdown
+* **Software:** Blender, TLauncher/Forge Modifications, Visual Studio, Unity
 * **Platforms:** GitHub, Figma/Design tools
 
 ---
 
 ## 📊 Current Focus
-* ⚡ Perfecting embedded systems and wireless communication.
+* ⚡ Mastering asynchronous JavaScript, APIs, and backend logic.
 * 🌌 Exploring advanced 3D rendering and project prototyping.
 
 *“The best way to predict the future is to invent it.”*
